@@ -50,7 +50,7 @@
 
 **不需要全职投入，不需要“大牛”光环**——只要你有热情、有时间、愿意一起做一件踏实的事。
 
-请通过 [GitHub Issues](https://github.com/orgs/cold-pivot) 或邮件联系我们。
+请通过 [GitHub Discussions](https://github.com/orgs/cold-pivot/discussions) 或邮件联系我们。
 
 ---
 
